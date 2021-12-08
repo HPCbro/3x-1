@@ -1,4 +1,4 @@
-f = open("dfsdfsfddf.txt",'a')
+f = open("dfsdfsfddf.txt",'w')
 m = int(input("min:"))
 n = int(input("max:"))
 x = 0
